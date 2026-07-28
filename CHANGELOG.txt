@@ -1,4 +1,10 @@
+2026.07.28.1
+============
 
+* FIX: bumpver now handles correctly versions
+
+2026.07.28.0
+============
 * MAINT: code cleanup
 * NEW: add margin
 * NEW: add rotate
